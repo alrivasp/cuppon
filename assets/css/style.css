@@ -1,0 +1,112 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+:root {      
+    --logo-cuppon-width: 5.375rem;
+    --logo-cuppon-height: 1.5625rem;
+}
+
+
+
+.font-h5{
+    color: #212529 !important;
+    font-size: 22px;
+}
+
+.color-pink {
+    color: #707070;
+}
+
+.logo-size-white {
+    width: var(--logo-cuppon-width);
+    height: var(--logo-cuppon-height);
+}
+
+/* Estilos CARD */
+.img-card {
+    width: 278px;
+    height: 180px;
+}
+
+.style-card-title {
+    height: 4.5625rem;
+    width: 16.3125rem;
+    margin-top: 0.875rem;
+    margin-right: 0;
+    margin-bottom: 0.6875rem;
+    margin-left: 1rem;
+}
+
+.style-card-description {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: 1px rgba(112, 112, 112, 0.2) solid;
+}
+
+.element-inline {
+    display: inline;
+}
+
+.text-size-21 {
+    font-size: 1.375rem;
+}
+
+
+.text-size-13 {
+    font-size: 0.8125rem;
+}
+
+.section-price {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 0.90625rem;
+    margin-bottom: 0.9375rem;
+}
+
+.inter-line {
+    line-height: 1.5rem;
+}
+
+.price-one {
+    margin-right: 0.6875rem;
+    font-size: 1rem;
+}
+
+.price-ofert{
+    color: #28A745;
+    font-size: 1.375rem;
+}
+
+.button-form {
+    width: 7rem;
+    height: 2.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #212529;
+}
+
+.logo-footer {
+    width: 82px;
+    height: 24px;
+}
+
+.footer-font {
+    color: #707070;
+}
+
+.font-formulario{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.roboto-light{
+    font-weight: 300;
+}
+
+.roboto-medium{
+    font-weight: 500;
+}
+
